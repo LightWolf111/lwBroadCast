@@ -1,0 +1,9 @@
+name: lwBroadCast
+version: '1.0'
+main: lightwolf.lwbroadcast.lwBroadCast
+api-version: '1.16'
+authors: [LightWolf | t.me/lightwolf]
+commands:
+  ad: {}
+  buy: {}
+  bc: {}
